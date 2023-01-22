@@ -1,5 +1,5 @@
 Arguments: 
-  /home/piyush/.nvm/versions/node/v18.13.0/bin/node /home/piyush/.nvm/versions/node/v18.13.0/bin/yarn add --dev @nomiclabs/ether-scan
+  /home/piyush/.nvm/versions/node/v18.13.0/bin/node /home/piyush/.nvm/versions/node/v18.13.0/bin/yarn add --dev hardhat-gas-reported
 
 PATH: 
   /home/piyush/.vscode-server/bin/97dec172d3256f8ca4bfb2143f3f76b503ca0534/bin/remote-cli:/home/piyush/.nvm/versions/node/v18.13.0/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/usr/lib/wsl/lib:/mnt/c/MinGW/bin:/mnt/c/Program files/Git/cmd/:/mnt/c/Program files/Git/bin/:/mnt/c/Program Files/PuTTY/:/mnt/c/Program Files/MongoDB/Server/5.0/bin:/mnt/c/Users/PIYUS/AppData/Local/Programs/Python/Python39/Scripts/:/mnt/c/Users/PIYUS/AppData/Local/Programs/Python/Python39/:/mnt/c/Users/PIYUS/AppData/Local/Microsoft/WindowsApps:/mnt/c/Users/PIYUS/AppData/Local/Programs/Microsoft VS Code/bin:/mnt/c/Users/PIYUS/AppData/Local/hyper/app-3.0.2/resources/bin:/mnt/c/Program Files/heroku/bin:/mnt/c/Users/PIYUS/AppData/Roaming/npm:/mnt/c/Users/PIYUS/Desktop/Computer Vision/protoc-3.20.1-win64/bin:/mnt/c/MinGW/bin:/mnt/c/WINDOWS/system32:/mnt/c/WINDOWS:/mnt/c/WINDOWS/System32/Wbem:/mnt/c/WINDOWS/System32/WindowsPowerShell/v1.0/:/mnt/c/WINDOWS/System32/OpenSSH/:/mnt/c/Program Files/Git/cmd:/mnt/c/Program Files/nodejs/:/mnt/c/Program Files/MongoDB/Server/5.0/bin:/snap/bin
@@ -14,7 +14,7 @@ Platform:
   linux x64
 
 Trace: 
-  Error: https://registry.yarnpkg.com/@nomiclabs%2fether-scan: Not found
+  Error: https://registry.yarnpkg.com/hardhat-gas-reported: Not found
       at params.callback [as _callback] (/home/piyush/.nvm/versions/node/v18.13.0/lib/node_modules/yarn/lib/cli.js:66145:18)
       at self.callback (/home/piyush/.nvm/versions/node/v18.13.0/lib/node_modules/yarn/lib/cli.js:140890:22)
       at Request.emit (node:events:513:28)
